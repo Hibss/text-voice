@@ -26,7 +26,7 @@ public class BaiduAipUtil {
 
                     // 可选：设置log4j日志输出格式，若不设置，则使用默认配置
                     // 也可以直接通过jvm启动参数设置此环境变量
-                    System.setProperty("aip.log4j.conf", "path/to/your/log4j.properties");
+//                    System.setProperty("aip.log4j.conf", "path/to/your/log4j.properties");
                 }
             }
         }
